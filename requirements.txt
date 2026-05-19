@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scikit-learn
+wandb
+datasets
+spacy
+tqdm
+evaluate
+gdown
+sacrebleu
