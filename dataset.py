@@ -2,8 +2,7 @@ import torch
 from torch.utils.data import Dataset
 from datasets import load_dataset
 import spacy
-import pickle
-import os
+
 
 
 class Multi30kDataset(Dataset):
